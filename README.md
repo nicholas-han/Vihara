@@ -1,1 +1,1 @@
-# FintechVihara
+# Vihara
