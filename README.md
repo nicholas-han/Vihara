@@ -1,1 +1,1 @@
-# FintechVihara
+# Vihara: An Infrastructure for Financial Services
